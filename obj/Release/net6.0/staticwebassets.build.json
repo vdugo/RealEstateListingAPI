@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RkPDFuMDMoXhLQID8As6iN5HgQAME2qib1BOWxlBh74=",
+  "Source": "RealEstateListingAPI",
+  "BasePath": "_content/RealEstateListingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

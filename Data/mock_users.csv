@@ -1,0 +1,11 @@
+Name,Email,PasswordHash,Role
+"tcauston0","kchaikovski0@ibm.com","$2a$04$ayi4ofUmbBoC13q84C0ddOX2A8RFBcGoWsOesLqPQ8hH9zyOaXYiO","admin"
+"ohalkyard1","dreeves1@liveinternet.ru","$2a$04$7PQ9uXGpYT2iNl3QS1fLSOAP.JGMTy.4SmvGqR.3hxk1/QW3SoKBC","admin"
+"eheyburn2","ccrowther2@utexas.edu","$2a$04$nL5rAcE8uRtvttbUHsVW5.ocDbXXxTdTEohHqw8CC0V1EeeH96cXy","seller"
+"dtappington3","bstribling3@chicagotribune.com","$2a$04$Edvrb/zWvqIun9A6dFZL8OiUAfU0zqg3A5L/cOBVaDHSTQMexzNB6","seller"
+"eearland4","scrasswell4@prnewswire.com","$2a$04$L34qmdI4bklilekBi0Fy2Oi0nGZVqO9p95F78JDO93h4GPQLCxMNS","seller"
+"aseabrooke5","ehuband5@yellowpages.com","$2a$04$7t0fMNEH3ZJaEcHnE8ieDe2W9raGP8hZ.PVM2wzOyH6xHmGxqR9R2","buyer"
+"cjaffa6","lthyer6@umn.edu","$2a$04$8PaPURV9pYoL9Rikf8lT2elxkhwCQyZqKD.s5Z8jM41uEdl1HKXsm","admin"
+"abugdale7","rbolmann7@jalbum.net","$2a$04$5P75QCni2R11bVLZ0f2E1OkbUe/psnKostQEfBSCwU9zGWO6rZ08e","seller"
+"scarlos8","cweinham8@census.gov","$2a$04$LMnlr4abYI/ffSv5RjQb2eHV/8jZT/pvfrrFZiSsGQXGw9168QpwG","buyer"
+"tjessel9","ahaughian9@ed.gov","$2a$04$733SQjYCgpH.6PsVxkFMEODblpemD5V9kdW.Y/Sx3zUq.8uq3Nb4y","admin"
